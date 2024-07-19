@@ -6,7 +6,7 @@ Overleaf supports uploading up to 50 MB per file, however currently the bib file
 
 Find the latest release below:
 
-**Latest:** [anthology_bib.zip](https://github.com/devrimcavusoglu/acl-bib-overleaf/releases/download/231122/anthology_bib-231122.zip) 
+**Latest:** [anthology_bib.zip](https://github.com/spencer-michael-s/acl-bib-overleaf/releases/download/240719/anthology_bib-240719.zip) 
 
 Unzip the compressed archive of anthology bib files, and modify your `.tex` file to include all bibs.
 
